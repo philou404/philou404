@@ -19,21 +19,20 @@ I make spooky-cute things in many languages
 
 ## 🌈 Color Palette
 
+## 🌈 Color Palette
+
 <p align="center">
-  <!-- Gothic Core -->
-  <span style="background:#1B1B1B; color:#fff; padding:4px 8px; border-radius:4px;">Gothic Black</span>
-  <span style="background:#2E1A47; color:#fff; padding:4px 8px; border-radius:4px;">Deep Purple</span>
-  <span style="background:#3D0C02; color:#fff; padding:4px 8px; border-radius:4px;">Blood Crimson</span>
-  <span style="background:#4B0A1D; color:#fff; padding:4px 8px; border-radius:4px;">Wine Velvet</span>
-  <span style="background:#5A1A5E; color:#fff; padding:4px 8px; border-radius:4px;">Royal Amethyst</span>
-  <span style="background:#420C41; color:#fff; padding:4px 8px; border-radius:4px;">Hexed Orchid</span>
+  <img alt="Gothic Black" src="https://img.shields.io/badge/-Gothic%20Black-%231B1B1B?style=for-the-badge&logoColor=transparent" />
+  <img alt="Deep Purple" src="https://img.shields.io/badge/-Deep%20Purple-%232E1A47?style=for-the-badge&logoColor=transparent" />
+  <img alt="Blood Crimson" src="https://img.shields.io/badge/-Blood%20Crimson-%233D0C02?style=for-the-badge&logoColor=transparent" />
+  <img alt="Wine Velvet" src="https://img.shields.io/badge/-Wine%20Velvet-%234B0A1D?style=for-the-badge&logoColor=transparent" />
+  <img alt="Royal Amethyst" src="https://img.shields.io/badge/-Royal%20Amethyst-%235A1A5E?style=for-the-badge&logoColor=transparent" />
+  <img alt="Hexed Orchid" src="https://img.shields.io/badge/-Hexed%20Orchid-%23420C41?style=for-the-badge&logoColor=transparent" />
+  <img alt="Kawaii Pink" src="https://img.shields.io/badge/-Kawaii%20Pink-%23FFC0CB?style=for-the-badge&logoColor=transparent" />
+  <img alt="Lavender" src="https://img.shields.io/badge/-Lavender-%23D8B4FE?style=for-the-badge&logoColor=transparent" />
+  <img alt="Mint" src="https://img.shields.io/badge/-Mint-%23B2F2BB?style=for-the-badge&logoColor=transparent" />
 </p>
-<p align="center">
- <!-- Kawaii Accents -->
-  <span style="background:#FFC0CB; color:#1B1B1B; padding:4px 8px; border-radius:4px;">Kawaii Pink</span>
-  <span style="background:#D8B4FE; color:#1B1B1B; padding:4px 8px; border-radius:4px;">Lavender</span>
-  <span style="background:#B2F2BB; color:#1B1B1B; padding:4px 8px; border-radius:4px;">Mint</span>
-</p>
+
 
 ---
 
