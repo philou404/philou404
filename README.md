@@ -13,7 +13,7 @@ I make spooky-cute things in many languages
 - 🎓 Computer Science Student
 - 💬 Coding in **HTML • CSS • PHP • JavaScript • C# • C • Rust • Python • Java • Janet**
 - 🌱 Currently exploring how to fix some languages
-- 🩸 love gothic and kawaii stuff
+- 🩸 Love gothic and kawaii stuff
 
 ---
 
