@@ -19,8 +19,6 @@ I make spooky-cute things in many languages
 
 ## 🌈 Color Palette
 
-## 🌈 Color Palette
-
 <p align="center">
   <img alt="Gothic Black" src="https://img.shields.io/badge/-Gothic%20Black-%231B1B1B?style=for-the-badge&logoColor=transparent" />
   <img alt="Deep Purple" src="https://img.shields.io/badge/-Deep%20Purple-%232E1A47?style=for-the-badge&logoColor=transparent" />
@@ -28,6 +26,8 @@ I make spooky-cute things in many languages
   <img alt="Wine Velvet" src="https://img.shields.io/badge/-Wine%20Velvet-%234B0A1D?style=for-the-badge&logoColor=transparent" />
   <img alt="Royal Amethyst" src="https://img.shields.io/badge/-Royal%20Amethyst-%235A1A5E?style=for-the-badge&logoColor=transparent" />
   <img alt="Hexed Orchid" src="https://img.shields.io/badge/-Hexed%20Orchid-%23420C41?style=for-the-badge&logoColor=transparent" />
+</p>
+<p align="center">
   <img alt="Kawaii Pink" src="https://img.shields.io/badge/-Kawaii%20Pink-%23FFC0CB?style=for-the-badge&logoColor=transparent" />
   <img alt="Lavender" src="https://img.shields.io/badge/-Lavender-%23D8B4FE?style=for-the-badge&logoColor=transparent" />
   <img alt="Mint" src="https://img.shields.io/badge/-Mint-%23B2F2BB?style=for-the-badge&logoColor=transparent" />
